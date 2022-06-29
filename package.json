@@ -1,0 +1,22 @@
+{
+  "name": "mock-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaoXi324/mock-server-json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaoXi324/mock-server-json/issues"
+  },
+  "homepage": "https://github.com/CaoXi324/mock-server-json#readme",
+  "dependencies": {
+    "mock-json-server": "^1.3.6"
+  }
+}
